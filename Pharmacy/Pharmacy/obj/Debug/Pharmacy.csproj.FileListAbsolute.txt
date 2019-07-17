@@ -1,0 +1,12 @@
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Login.resources
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Pharmacy.resources
+C:\Users\Cavid\Desktop\Pharmacy tast optimal\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Delete.resources
